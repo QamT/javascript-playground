@@ -1,0 +1,14 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css');
+
+html {
+  box-sizing: border-box;
+}
+
+body, #root {
+  height: 100%;
+}
+
+#root {
+  color: yellow;
+}
+
